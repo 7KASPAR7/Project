@@ -1,0 +1,5 @@
+Reverb
+Delay
+chorus
+random.randint(20, 30) - случайное целое число N, A ? N ? B.
+Equalizer
